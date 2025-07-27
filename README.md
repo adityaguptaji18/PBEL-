@@ -1,2 +1,2 @@
 # html
-this is my first repo to understand html
+Heyy there, I'll be dealing with new tech here...
